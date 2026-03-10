@@ -70,7 +70,7 @@ A key pattern in this repo is separating the **Axis** into its own component. We
 
 # 📂 Project Structure
 
-`
+```
 src/
 ├── components/
 │   ├── charts/          # Core chart components (BarChart.svelte, LineChart.svelte)
@@ -78,7 +78,7 @@ src/
 │   └── layout/          # Chart containers and responsive wrappers
 ├── data/                # Sample datasets (CSV, JSON, GeoJSON)
 └── utils/               # D3 formatters, color schemes, and data parsers
-`
+```
 
 ---
 
